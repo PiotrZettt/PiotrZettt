@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piotr @PiotrZettt. I live in UK and work in Automotive/Aerospace industry in Quality Assurance.
 
-- 👀 I’m interested in coding, especially python and web based aplications. You can find here many projects I completed as part of the learning process but also my own, work related project of "Job Wallet" which is a tool used for tracebility in automotive parts production.
+- 👀 I’m interested in coding, especially python and web based aplications. You can find here my projects I completed as part of the learning process but also my own, work related project of "Job Wallet" which is a tool used for tracebility in automotive parts production.
 - 🌱 I’m currently learning JavaScript and jQuery
 - 💞️ I’m looking to collaborate on web based applications
 - 📫 How to reach me: please email me on piotrzielinski@o2.pl
