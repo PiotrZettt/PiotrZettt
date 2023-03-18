@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Piotr @PiotrZettt. I live in UK and work in Automotive/Aerospace industry in Quality Assurance.
+- 👋 Hi, I’m Piotr @PiotrZettt.
 
-- 👀 I’m passionate about coding, especially python and web based aplications. You can find here projects I completed as part of the learning process but also my own, work related applications: "inspect-it" and "Job Wallet" which are tools used for tracebility and data analysis in a manufacturing environment.
-The "brandlive" app is a job interest registration platform created for a marketing agency of "Brand Live"
-- 🌱 I’m currently learning React and Go
-- 💞️ I’m looking to collaborate on web based applications
-- 📫 How to reach me: please email me on piotrzielinski@o2.pl
+- 👀 I’m passionate about coding, especially python, React and web based aplications. I have created the StartApp House Limited where a group of friends and I work on developing SaaS applications.
+- Here, on my profile you can find projects I completed as part of the learning process but also my own, work related applications: "PaulsPanelsLimited" "inspect-it" and "Job Wallet" which are tools used for tracebility and data analysis in a manufacturing environment.
 
 <!---
 PiotrZettt/PiotrZettt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
